@@ -40,6 +40,13 @@
 #### 对DRY原则的误解
 DRY原则和把函数做的尽量小并不完全相同，我发现把函数做小通常会最终实现DRY。在我看来DRY是一个好的编程指导原则，但是很多时候是更多的时候是一种坏的指导。如果教条的遵从DRY原则，实用主义和理智往往会被牺牲。
 
+Raymond Hettinger是一位Python的主要开发者，他做过一次非常棒的演讲Beyond PEP8: Best practices for beautiful, intelligible code。这是一个必看的视频，不仅仅对Python开发者，包括所有对编程感兴趣或者以编程为生的人。他严厉批判了对PEP8的教条遵从。所以，对他思想的理解要比对PEP8的内容要重要的多。
+
+即使你没有观看整个视频，也应该看一看这一分钟的视频。他在这里把DRY原则必做海妖。如果人们一味的遵从DRY原则，那么就会只见树木不见森林。
+
+
+
+
 ----------------
 
 via：https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29
