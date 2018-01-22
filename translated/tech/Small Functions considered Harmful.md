@@ -59,7 +59,11 @@ Raymond Hettinger是一位Python的主要开发者，他做过一次非常棒的
 最好的抽象不是完美的而是优化的足够好。它是一种特征，不能成为bug所在。理解这一点对设计出好的抽象至关重要。
 
 Alex Martelli是duck-typing合pythonista的创造者，他有一个名为《The Tower Of Abstraction》的演讲，这些幻灯片非常值得一看：
-> 
+> 如何做到好的抽象
+* 考虑到集中可能的继承者
+* 考虑到几种可能的调用
+
+
 
 
 
