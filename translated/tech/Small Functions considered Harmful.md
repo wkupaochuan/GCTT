@@ -118,8 +118,6 @@ Alex Martelli是duck-typing合pythonista的创造者，他有一个名为《The 
 
 
 
-
-
 ----------------
 
 via：https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29
